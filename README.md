@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any random project that i can learn from.
 - 📫 How to reach me; You can contact me by sending massage to my email: kiettisak.k2546@gmail.com, or through my discord dm (Usually not came to read): horisondonut.
 - 😄 Pronouns: Just he if you curios. But you can call me whatever you want, i don't mind.
-- ⚡ Fun fact: " If you believe swimwear is underwear, then it's underwear " by Hanako.
+- ⚡ Fun fact: " If you believe swimwear is underwear, then it's underwear " by Urawa Hanako.
 
 <!---
 HORIZON-Donut/HORIZON-Donut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
