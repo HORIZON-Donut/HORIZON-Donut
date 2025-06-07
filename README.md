@@ -9,7 +9,7 @@
 - ⚡ Fun fact: " If you believe swimwear is underwear, then it's underwear " by Urawa Hanako.
 
 ### My template
- - Checkout my (template)[Templates]. It might useful for you, or completely useless
+ - Checkout my [template](Templates). It might useful for you, or completely useless
 
 <!---
 HORIZON-Donut/HORIZON-Donut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
