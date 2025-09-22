@@ -8,9 +8,6 @@
 - 😄 Pronouns: Just he if you curios. But you can call me whatever you want, i don't mind.
 - ⚡ Fun fact: " If you believe swimwear is underwear, then it's underwear " by Urawa Hanako.
 
-### My template
- - Checkout my [template](Templates). It might useful for you, or completely useless
-
 <!---
 HORIZON-Donut/HORIZON-Donut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
