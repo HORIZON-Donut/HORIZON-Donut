@@ -230,7 +230,7 @@ bar {
 bar {
 	position bottom
 	tray_output none
-	separator_symbol "]|["
+	separator_symbol ":|:"
 
 	workspace_buttons yes
 	workspace_min_width 40
