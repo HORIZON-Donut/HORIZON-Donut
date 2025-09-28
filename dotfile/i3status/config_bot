@@ -19,23 +19,23 @@ order += "memory"
 #order += "tztime local"
 
 disk "/" {
-        format = "[root: %free - %avail:%total]"
+        format = "[ root: %free - %avail:%total ]"
 }
 
 disk "/home" {
-	format = "[home: %free - %avail:%total]"
+	format = "[ home: %free - %avail:%total ]"
 }
 
 load {
-        format = "[load: 1 min: %1min 5min: %5min 15min: %15min]"
+        format = "[ load: 1 min: %1min 5min: %5min 15min: %15min ]"
 }
 
 memory {
-        format = "[memory: %used - avai: %available]"
+        format = "[ memory: %used - avai: %available ]"
         threshold_degraded = "1G"
         format_degraded = "MEMORY < %available"
 }
 
 tztime local {
-        format = "[date: %Y-%m-%d time: %H:%M:%S]"
+        format = "[ date: %Y-%m-%d time: %H:%M:%S ]"
 }

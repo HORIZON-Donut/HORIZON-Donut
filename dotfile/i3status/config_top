@@ -20,33 +20,37 @@ order += "volume master"
 order += "battery all"
 order += "tztime local"
 
+ipv6 {
+	format_up = "[ IPv6: %ip ]"
+	format_down = "[ !!IPv6: Down!! ]"
+}
 wireless _first_ {
-        format_up = "[W: (%quality at %essid) %ip]"
-        format_down = "[!!W: down!!]"
+        format_up = "[ WiFi: (%quality at %essid) %ip ]"
+        format_down = "[!!WiFi: down!!]"
 }
 
 ethernet _first_ {
-        format_up = "[E: %ip (%speed)]"
-        format_down = "[!!E: down!!]"
+        format_up = "[ E: %ip (%speed) ]"
+        format_down = "[ !!E: down!! ]"
 }
 
 volume master {
-	format = "[volume: %volume]"
-	format_muted = "[volume: muted (%volume)]"
+	format = "[ volume: %volume ]"
+	format_muted = "[ volume: muted (%volume) ]"
 	device = "default"
 	mixer = "master"
 	mixer_idx = 0
 }
 
 battery all {
-        format = "[%status %percentage %remaining]"
+        format = "[ %status %percentage %remaining ]"
 }
 
 read_file keyboard {
 	path = "/tmp/current-layout"
-	format = "layout: %content"
+	format = "[ layout: %content ]"
 }
 
 tztime local {
-        format = "[date: %Y-%m-%d time: %H:%M:%S]"
+        format = "[ date: %Y-%m-%d time: %H:%M:%S ]"
 }
