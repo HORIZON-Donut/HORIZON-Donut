@@ -33,7 +33,7 @@ disk "/home" {
 }
 
 load {
-        format = "[ load: 1 min: %1min 5min: %5min 15min: %15min ]"
+        format = "[ load: 1 min: %1min 5 min: %5min 15 min: %15min ]"
 }
 
 memory {
